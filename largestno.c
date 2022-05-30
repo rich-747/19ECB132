@@ -23,4 +23,4 @@ int main() {
   }
 Output:
 Enter three numbers: 4 5 6
-6.00 is the largest number.~/19ECB132-2$
+6.00 is the largest number.

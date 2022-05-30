@@ -22,3 +22,6 @@ int main() {
 
     return 0;
 }
+Output:
+Enter a three-digit integer: 456
+456 is not an Armstrong number

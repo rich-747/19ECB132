@@ -86,3 +86,8 @@ int main()
  
     return 0;
 }
+Output:
+Enter your date of birth (DD/MM/YYYY): 22/04/2003
+Current Date: 30/5/2022
+
+## Hey you are  19 years 1 months and 8 days old.

@@ -16,4 +16,6 @@ int main() {
     }
     return 0;
 }
-
+Output:
+Enter two positive integers: 3 5
+The LCM of 3 and 5 is 15.

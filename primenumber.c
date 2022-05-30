@@ -29,3 +29,6 @@ int main() {
 
   return 0;
 }
+Output:
+Enter a positive integer: 5
+5 is a prime number

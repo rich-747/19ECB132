@@ -20,4 +20,7 @@ int main() {
     printf("%.2lf is the largest number.", n3);
 
   return 0;
-}
+  }
+Output:
+Enter three numbers: 4 5 6
+6.00 is the largest number.~/19ECB132-2$

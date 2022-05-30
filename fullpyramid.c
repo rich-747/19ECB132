@@ -15,4 +15,15 @@ int main() {
    }
    return 0;
 }
+Output:
+Enter an integer: 7
+7 is odd.~/19ECB132-2$ gcc fullpyramid.c
+~/19ECB132-2$ ./a.out
+Enter the number of rows: 4
+      * 
+    * * * 
+  * * * * * 
+* * * * * * * 
+~/19ECB132-2$ 
+
 

@@ -14,3 +14,8 @@ int main() {
     printf("Remainder = %d", remainder);
     return 0;
 }
+Output:
+Enter dividend: 5
+Enter divisor: 8
+Quotient = 0
+Remainder = 5

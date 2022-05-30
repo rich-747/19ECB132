@@ -14,8 +14,8 @@ int main()
     printf("Enter time in year: ");
     scanf("%f", &time);
 
-    rate = rate / (12 * 100); /*one month interest*/
-    time = time * 12; /*one month period*/
+    rate = rate / (12 * 100); 
+    time = time * 12; 
 
     emi = (principal * rate * pow(1 + rate, time)) / (pow(1 + rate, time) - 1);
 

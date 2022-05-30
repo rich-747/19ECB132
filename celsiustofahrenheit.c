@@ -11,3 +11,6 @@ int main()
     printf("\n\n\nTemperature in Fahrenheit is: %f ", fahrenheit);
     return 0;
 }
+Output:
+Enter temperature in Celsius: 37
+Temperature in Fahrenheit is: 98.599998

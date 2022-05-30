@@ -241,3 +241,18 @@ void search()
         }  
     }          
 }  
+Output:
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in Beginning
+2.Insert at last
+3.Delete from Beginning
+4.Delete from last
+5.Search
+6.Show
+7.Exit
+
+Enter your choice?
+Insert in the beginning

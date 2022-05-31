@@ -1,5 +1,6 @@
 #include<stdio.h>  
-void main() {  
+int main() 
+{  
    int a = 10, b = 20, c;  
    
     asm {  
